@@ -78,28 +78,28 @@ Handwriting digits recognition on MNIST without convolutions
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anspire/Notebooks/blob/master/Handwriting_digits_recognition.ipynb) 
 [![Download](https://img.shields.io/badge/Download-Notebook-blue)](https://anspire.github.io/git/raw.html?url=https://raw.githubusercontent.com/Anspire/Notebooks/master/Handwriting_digits_recognition.ipynb) 
-[![message](https://img.shields.io/badge/-opencv-lightgrey)](#)
+[![message](https://img.shields.io/badge/-keras-lightgrey)](#)
 
 ### Intel_image_classification_from_kaggle_dataset.ipynb
 Classification of Natural Scenes.
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anspire/Notebooks-keras/blob/master/Intel_image_classification_from_kaggle_dataset.ipynb) 
 [![Download](https://img.shields.io/badge/Download-Notebook-blue)](https://anspire.github.io/git/raw.html?url=https://raw.githubusercontent.com/Anspire/Notebooks/master/Intel_image_classification_from_kaggle_dataset.ipynb) 
-[![message](https://img.shields.io/badge/-opencv-lightgrey)](#)
+[![message](https://img.shields.io/badge/-keras-lightgrey)](#)
 
 ### unet_keras.ipynb
 Implementaion of unet in keras.
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anspire/Notebooks/blob/master/unet_keras.ipynb) 
 [![Download](https://img.shields.io/badge/Download-Notebook-blue)](https://anspire.github.io/git/raw.html?url=https://raw.githubusercontent.com/Anspire/Notebooks/master/unet_keras.ipynb) 
-[![message](https://img.shields.io/badge/-opencv-lightgrey)](#)
+[![message](https://img.shields.io/badge/-keras-lightgrey)](#)
 
 ### mask_rcnn_keras.ipynb
 Using Mask RCNN to segment images
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anspire/Notebooks/blob/master/mask_rcnn_keras.ipynb) 
 [![Download](https://img.shields.io/badge/Download-Notebook-blue)](https://anspire.github.io/git/raw.html?url=https://raw.githubusercontent.com/Anspire/Notebooks/master/mask_rcnn_keras.ipynb) 
-[![message](https://img.shields.io/badge/-opencv-lightgrey)]()
+[![message](https://img.shields.io/badge/-keras-lightgrey)](#)
 
 ## Data preprocessing
 ### Downloading_dataset_from_kaggle.ipynb
@@ -107,7 +107,7 @@ Download dataset from kaggle to local system.
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anspire/Notebooks/blob/master/Downloading_dataset_from_kaggle.ipynb) 
 [![Download](https://img.shields.io/badge/Download-Notebook-blue)](https://anspire.github.io/git/raw.html?url=https://raw.githubusercontent.com/Anspire/Notebooks/master/Downloading_dataset_from_kaggle.ipynb) 
-[![message](https://img.shields.io/badge/-opencv-lightgrey)]()
+[![message](https://img.shields.io/badge/-kaggle-lightgrey)](#)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
