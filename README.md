@@ -1,5 +1,5 @@
-# Notebooks
-Computer Vision and Deep Learning  IPython notebooks
+# Deep Learning Notebooks
+Deep Learning  IPython notebooks
 
 ## Computer Vision and Image Processing
 
